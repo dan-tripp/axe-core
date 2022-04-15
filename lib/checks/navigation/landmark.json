@@ -2,7 +2,7 @@
   "id": "landmark",
   "evaluate": "has-descendant-evaluate",
   "options": {
-    "selector": "main, [role=main]"
+    "selector": "main, [role/=\"/main/i\"]"
   },
   "metadata": {
     "impact": "serious",

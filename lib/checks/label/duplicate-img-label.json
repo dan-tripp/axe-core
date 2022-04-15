@@ -2,7 +2,7 @@
   "id": "duplicate-img-label",
   "evaluate": "duplicate-img-label-evaluate",
   "options": {
-    "parentSelector": "button, [role=button], a[href], p, li, td, th"
+    "parentSelector": "button, [role/=\"/button/i\"], a[href], p, li, td, th"
   },
   "metadata": {
     "impact": "minor",

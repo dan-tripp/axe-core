@@ -3,7 +3,7 @@
   "evaluate": "page-no-duplicate-evaluate",
   "after": "page-no-duplicate-after",
   "options": {
-    "selector": "main:not([role]), [role='main']"
+    "selector": "main:not([role]), [role/=\"/main/\"]"
   },
   "metadata": {
     "impact": "moderate",
